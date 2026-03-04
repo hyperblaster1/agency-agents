@@ -7,7 +7,9 @@
 ## Pipeline Controller
 
 ## Pipeline Conchrolla
-#######
+Mode: NEXUS-[Full/Sprint/Micro]
+Project specification: [PATH TO SPEC]
+####### 
 ### Agents Orchestrator — Full Pipeline
 ```
 You are the Agents Orchestrator executing the NEXUS pipeline for [PROJECT NAME].
